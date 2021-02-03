@@ -139,3 +139,139 @@
 2021-02-02 20:55:35,117 [main] INFO E-Commerce - Login is passed
 2021-02-02 22:44:26,197 [main] INFO E-Commerce - Login ic clicked
 2021-02-02 22:44:33,492 [main] INFO E-Commerce - Login is passed
+2021-02-03 09:14:50,082 [main] INFO E-Commerce - Login ic clicked
+2021-02-03 09:14:57,621 [main] INFO E-Commerce - Login is passed
+2021-02-03 09:15:13,057 [main] INFO E-Commerce - Login is clicked
+2021-02-03 09:15:18,122 [main] INFO E-Commerce - Login is passed
+2021-02-03 09:15:22,037 [main] INFO E-Commerce - Login is clicked
+2021-02-03 09:15:27,114 [main] INFO E-Commerce - Login is passed
+2021-02-03 09:28:52,894 [main] INFO E-Commerce - Username entered 
+2021-02-03 09:28:52,999 [main] INFO E-Commerce - Password entered 
+2021-02-03 09:28:53,065 [main] INFO E-Commerce - Login ic clicked
+2021-02-03 09:29:06,963 [main] INFO E-Commerce - Username entered 
+2021-02-03 09:29:07,036 [main] INFO E-Commerce - Password entered
+2021-02-03 09:29:07,102 [main] INFO E-Commerce - Login is clicked
+2021-02-03 09:29:13,041 [main] INFO E-Commerce - Username entered 
+2021-02-03 09:29:13,132 [main] INFO E-Commerce - Password entered
+2021-02-03 09:29:13,197 [main] INFO E-Commerce - Login is clicked
+2021-02-03 09:29:20,413 [main] INFO E-Commerce - Username entered 
+2021-02-03 09:29:20,491 [main] INFO E-Commerce - Password entered
+2021-02-03 09:29:20,552 [main] INFO E-Commerce - Login is clicked
+2021-02-03 09:29:27,764 [main] INFO E-Commerce - Username entered 
+2021-02-03 09:29:27,838 [main] INFO E-Commerce - Password entered
+2021-02-03 09:29:27,902 [main] INFO E-Commerce - Login is clicked
+2021-02-03 09:51:30,504 [main] INFO E-Commerce - Username entered 
+2021-02-03 09:51:33,613 [main] INFO E-Commerce - Password entered 
+2021-02-03 09:51:33,677 [main] INFO E-Commerce - Login ic clicked
+2021-02-03 09:55:24,630 [main] INFO E-Commerce - Username entered 
+2021-02-03 09:55:27,640 [main] INFO E-Commerce - Wait for 3 seconds
+2021-02-03 09:55:30,787 [main] INFO E-Commerce - Password entered 
+2021-02-03 09:55:33,798 [main] INFO E-Commerce - Wait for 3 seconds
+2021-02-03 09:55:33,876 [main] INFO E-Commerce - Login ic clicked
+2021-02-03 09:56:38,728 [main] INFO E-Commerce - Username entered 
+2021-02-03 09:56:41,743 [main] INFO E-Commerce - Wait for 3 seconds
+2021-02-03 09:56:44,868 [main] INFO E-Commerce - Password entered 
+2021-02-03 09:56:47,883 [main] INFO E-Commerce - Wait for 3 seconds
+2021-02-03 09:56:47,964 [main] INFO E-Commerce - Login ic clicked
+2021-02-03 10:01:12,669 [main] INFO E-Commerce - Entered inside of setUsername
+2021-02-03 10:01:12,673 [main] INFO E-Commerce - Username entered 
+2021-02-03 10:01:15,674 [main] INFO E-Commerce - Wait for 3 seconds
+2021-02-03 10:01:18,892 [main] INFO E-Commerce - Password entered 
+2021-02-03 10:01:21,903 [main] INFO E-Commerce - Wait for 3 seconds
+2021-02-03 10:01:22,095 [main] INFO E-Commerce - Login ic clicked
+2021-02-03 10:01:58,299 [main] INFO E-Commerce - Entered inside of setUsername
+2021-02-03 10:01:58,305 [main] INFO E-Commerce - Username entered 
+2021-02-03 10:02:01,313 [main] INFO E-Commerce - Wait for 3 seconds
+2021-02-03 10:02:04,570 [main] INFO E-Commerce - Password entered 
+2021-02-03 10:02:07,573 [main] INFO E-Commerce - Wait for 3 seconds
+2021-02-03 10:02:07,677 [main] INFO E-Commerce - Login ic clicked
+2021-02-03 10:04:11,086 [main] INFO E-Commerce - Entered inside of setUsername
+2021-02-03 10:04:11,090 [main] INFO E-Commerce - Username entered 
+2021-02-03 10:04:14,095 [main] INFO E-Commerce - Wait for 3 seconds
+2021-02-03 10:04:17,285 [main] INFO E-Commerce - Password entered 
+2021-02-03 10:04:20,300 [main] INFO E-Commerce - Wait for 3 seconds
+2021-02-03 10:04:20,425 [main] INFO E-Commerce - Login ic clicked
+2021-02-03 10:04:43,763 [main] INFO E-Commerce - Entered inside of setUsername
+2021-02-03 10:04:43,771 [main] INFO E-Commerce - Username entered 
+2021-02-03 10:04:46,782 [main] INFO E-Commerce - Wait for 3 seconds
+2021-02-03 10:04:50,025 [main] INFO E-Commerce - Password entered 
+2021-02-03 10:04:53,040 [main] INFO E-Commerce - Wait for 3 seconds
+2021-02-03 10:04:53,152 [main] INFO E-Commerce - Login ic clicked
+2021-02-03 10:05:31,582 [main] INFO E-Commerce - Entered inside of setUsername
+2021-02-03 10:05:31,586 [main] INFO E-Commerce - Username entered 
+2021-02-03 10:05:34,589 [main] INFO E-Commerce - Wait for 3 seconds
+2021-02-03 10:05:37,854 [main] INFO E-Commerce - Password entered 
+2021-02-03 10:05:40,858 [main] INFO E-Commerce - Wait for 3 seconds
+2021-02-03 10:05:41,035 [main] INFO E-Commerce - Login ic clicked
+2021-02-03 10:07:32,220 [main] INFO E-Commerce - Username entered 
+2021-02-03 10:07:35,234 [main] INFO E-Commerce - Wait for 3 seconds
+2021-02-03 10:07:38,486 [main] INFO E-Commerce - Password entered 
+2021-02-03 10:07:41,493 [main] INFO E-Commerce - Wait for 3 seconds
+2021-02-03 10:07:41,667 [main] INFO E-Commerce - Login ic clicked
+2021-02-03 10:15:37,315 [main] INFO E-Commerce - Username entered 
+2021-02-03 10:15:40,332 [main] INFO E-Commerce - Wait for 3 seconds
+2021-02-03 10:15:43,514 [main] INFO E-Commerce - Password entered 
+2021-02-03 10:15:46,520 [main] INFO E-Commerce - Wait for 3 seconds
+2021-02-03 10:15:46,710 [main] INFO E-Commerce - Login ic clicked
+2021-02-03 10:20:56,503 [main] INFO E-Commerce - Username entered 
+2021-02-03 10:20:59,520 [main] INFO E-Commerce - Wait for 3 seconds
+2021-02-03 10:21:02,713 [main] INFO E-Commerce - Password entered 
+2021-02-03 10:21:05,722 [main] INFO E-Commerce - Wait for 3 seconds
+2021-02-03 10:21:07,690 [main] INFO E-Commerce - Login ic clicked
+2021-02-03 10:21:46,898 [main] INFO E-Commerce - Username entered 
+2021-02-03 10:21:49,909 [main] INFO E-Commerce - Wait for 3 seconds
+2021-02-03 10:21:53,071 [main] INFO E-Commerce - Password entered 
+2021-02-03 10:21:56,081 [main] INFO E-Commerce - Wait for 3 seconds
+2021-02-03 10:21:56,253 [main] INFO E-Commerce - Login ic clicked
+2021-02-03 10:22:30,171 [main] INFO E-Commerce - Username entered 
+2021-02-03 10:22:33,184 [main] INFO E-Commerce - Wait for 3 seconds
+2021-02-03 10:22:36,417 [main] INFO E-Commerce - Password entered 
+2021-02-03 10:22:39,433 [main] INFO E-Commerce - Wait for 3 seconds
+2021-02-03 10:22:39,630 [main] INFO E-Commerce - Login ic clicked
+2021-02-03 10:32:11,807 [main] INFO E-Commerce - User provided
+2021-02-03 10:32:11,927 [main] INFO E-Commerce - Password provided
+2021-02-03 10:32:19,196 [main] INFO E-Commerce - Login in Clicked
+2021-02-03 10:32:47,057 [main] INFO E-Commerce - User provided
+2021-02-03 10:32:47,176 [main] INFO E-Commerce - Password provided
+2021-02-03 10:32:50,306 [main] INFO E-Commerce - Login in Clicked
+2021-02-03 10:33:40,614 [main] INFO E-Commerce - User provided
+2021-02-03 10:33:40,860 [main] INFO E-Commerce - Password provided
+2021-02-03 10:33:47,638 [main] INFO E-Commerce - Login in Clicked
+2021-02-03 10:33:56,330 [main] INFO E-Commerce - Login is passed
+2021-02-03 10:35:12,251 [main] INFO E-Commerce - User provided
+2021-02-03 10:35:12,366 [main] INFO E-Commerce - Password provided
+2021-02-03 10:35:20,756 [main] INFO E-Commerce - Login in Clicked
+2021-02-03 10:35:29,512 [main] INFO E-Commerce - Login is passed
+2021-02-03 10:35:37,662 [main] INFO E-Commerce - User provided
+2021-02-03 10:35:37,773 [main] INFO E-Commerce - Password provided
+2021-02-03 10:35:42,824 [main] INFO E-Commerce - Login is clicked
+2021-02-03 10:35:50,531 [main] INFO E-Commerce - Login is passed
+2021-02-03 10:35:51,399 [main] INFO E-Commerce - User provided
+2021-02-03 10:35:51,534 [main] INFO E-Commerce - Password provided
+2021-02-03 10:35:54,458 [main] INFO E-Commerce - Login is clicked
+2021-02-03 10:36:02,051 [main] INFO E-Commerce - Login is passed
+2021-02-03 10:36:02,855 [main] INFO E-Commerce - User provided
+2021-02-03 10:36:03,022 [main] INFO E-Commerce - Password provided
+2021-02-03 10:36:05,972 [main] INFO E-Commerce - Login is clicked
+2021-02-03 10:36:13,589 [main] INFO E-Commerce - Login is passed
+2021-02-03 10:36:14,456 [main] INFO E-Commerce - User provided
+2021-02-03 10:36:14,708 [main] INFO E-Commerce - Password provided
+2021-02-03 10:36:17,576 [main] INFO E-Commerce - Login is clicked
+2021-02-03 10:36:25,121 [main] INFO E-Commerce - Login is passed
+2021-02-03 10:40:43,399 [main] INFO E-Commerce - User provided
+2021-02-03 10:40:47,654 [main] INFO E-Commerce - Password provided
+2021-02-03 10:40:53,371 [main] INFO E-Commerce - Login in Clicked
+2021-02-03 10:41:01,570 [main] INFO E-Commerce - Login is passed
+2021-02-03 10:41:15,030 [main] INFO E-Commerce - User provided
+2021-02-03 10:41:19,292 [main] INFO E-Commerce - Password provided
+2021-02-03 10:41:24,740 [main] INFO E-Commerce - Login is clicked
+2021-02-03 10:41:34,312 [main] INFO E-Commerce - Login is passed
+2021-02-03 10:41:39,393 [main] INFO E-Commerce - User provided
+2021-02-03 10:41:43,625 [main] INFO E-Commerce - Password provided
+2021-02-03 10:41:44,359 [main] INFO E-Commerce - Login is clicked
+2021-02-03 10:41:54,781 [main] INFO E-Commerce - User provided
+2021-02-03 10:41:59,020 [main] INFO E-Commerce - Password provided
+2021-02-03 10:41:59,767 [main] INFO E-Commerce - Login is clicked
+2021-02-03 10:42:10,098 [main] INFO E-Commerce - User provided
+2021-02-03 10:42:14,334 [main] INFO E-Commerce - Password provided
+2021-02-03 10:42:15,128 [main] INFO E-Commerce - Login is clicked

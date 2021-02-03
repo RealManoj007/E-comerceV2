@@ -18,8 +18,12 @@ public class TC_LoginDDT_002 extends baseClass{
 		driver.get(baseURL);
 		driver.manage().window().maximize();
 		loginPage lp=new loginPage(driver);
-//		lp.setUsername(username);
-//		lp.setPassword(password);
+		
+		lp.setUsername(user);
+		logger.info("User provided"); //logger msg
+		
+		lp.setPassword(pwd);
+		logger.info("Password provided");//logger msg
 		lp.clickLogin();
 		logger.info("Login is clicked");
 		Thread.sleep(5000);

@@ -1,4 +1,16 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 23.369 s - in TestSuite
+Tests run: 5, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 111.517 s <<< FAILURE! - in TestSuite
+com.nopcommerce.testCases.TC_LoginDDT_002.loginTest[admin@yourstore.com, adm](2)  Time elapsed: 15.47 s  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at com.nopcommerce.testCases.TC_LoginDDT_002.loginTest(TC_LoginDDT_002.java:36)
+
+com.nopcommerce.testCases.TC_LoginDDT_002.loginTest[admin@your.com, admin](3)  Time elapsed: 15.407 s  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at com.nopcommerce.testCases.TC_LoginDDT_002.loginTest(TC_LoginDDT_002.java:36)
+
+com.nopcommerce.testCases.TC_LoginDDT_002.loginTest[adm@yourstore.com, adm](4)  Time elapsed: 15.362 s  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at com.nopcommerce.testCases.TC_LoginDDT_002.loginTest(TC_LoginDDT_002.java:36)
+

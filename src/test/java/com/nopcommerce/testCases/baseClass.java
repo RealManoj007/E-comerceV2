@@ -23,6 +23,8 @@ public class baseClass {
 	ReadConfig readfile=new ReadConfig();
 		
 	public String baseURL=readfile.getApplicationURL();
+	public String username=readfile.userName();
+	public String password=readfile.passWord();
 	
 	public static WebDriver driver;
 	public static Logger logger;

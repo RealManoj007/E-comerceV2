@@ -26,6 +26,7 @@ public class ReadConfig {
 
 	public String userName() {
 		String uname=pro.getProperty("username");
+//		System.out.println(uname);
 		return uname;
 	}
 	
