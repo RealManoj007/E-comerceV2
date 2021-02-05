@@ -41,6 +41,17 @@ Go to structure eCommerceV5(project name)\src\test\java\com\nopcommerce and over
 
 In baseClass.java Logger is used which is of Log4j. this will provided the information to console or report what so ever is implmented or whose so ever function is running it will print that reports in the form on logs and will save that under folder Log folder that is in root directory.
 
+In other classes we used extent report concept. These result are also saved in extent-report.xml which is in root folder location. extent report provides information when ever a method executes as per extended class TestListenerAdapter.  this contains four class which tells information whenever a metoh exectues sucessfully or not.
+These names are:-
+    onStart(ITestContext testContext) => Whenver a method starts it will run
+	onTestSuccess() => Will run on method carrying result success
+    onTestFailure() => Will run on method carrying result failure
+	onTestSkipped() => Will run on method carrying result skipped
+	onFinish() => Will run on method carrying result skipped
+
+with respect to these report will be generated in all formats and good reports/attactive reports are generated under test-output folder.
+
+run.bat is used to run this project on Jenkins
 
 
 
