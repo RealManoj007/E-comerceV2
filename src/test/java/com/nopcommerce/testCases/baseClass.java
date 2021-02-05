@@ -30,10 +30,10 @@ public class baseClass {
 	public static Logger logger;
 	
 	@BeforeClass
-	@Parameters("browser")
+	@Parameters("browser") //picking paramter from xml file
 	public void setUp(String br) {
-		logger=Logger.getLogger("E-Commerce");
-		PropertyConfigurator.configure("log4j.properties");
+		logger=Logger.getLogger("E-Commerce"); // this is used to have information of class running or can add any name that need to display in logs
+		PropertyConfigurator.configure("log4j.properties"); // this is default file comes from log4j
 		
 		if(br.equals("chrome")) {
 		System.setProperty("webdriver.chrome.driver",readfile.ChromePath());
@@ -54,7 +54,7 @@ public class baseClass {
 		driver.quit();
 	}
 	
-	public void captureScreen(WebDriver driver,String tname) throws IOException {
+	public void captureScreen(WebDriver driver,String tname) throws IOException {  // to capture screenshot
 		TakesScreenshot ts=(TakesScreenshot)driver;
 		File source=ts.getScreenshotAs(OutputType.FILE);
 		File target=new File(System.getProperty("user.dir")+"/Screenshots/"+tname+".png");
