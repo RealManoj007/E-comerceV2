@@ -1,16 +1,16 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 139.142 s <<< FAILURE! - in TestSuite
-com.nopcommerce.testCases.TC_LoginDDT_002.loginTest[admin@yourstore.com, adm](2)  Time elapsed: 15.903 s  <<< FAILURE!
+Tests run: 6, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 148.717 s <<< FAILURE! - in TestSuite
+com.nopcommerce.testCases.TC_LoginDDT_002.loginTest[admin@yourstore.com, adm](2)  Time elapsed: 15.622 s  <<< FAILURE!
 junit.framework.AssertionFailedError
 	at com.nopcommerce.testCases.TC_LoginDDT_002.loginTest(TC_LoginDDT_002.java:36)
 
-com.nopcommerce.testCases.TC_LoginDDT_002.loginTest[admin@your.com, admin](3)  Time elapsed: 16.636 s  <<< FAILURE!
+com.nopcommerce.testCases.TC_LoginDDT_002.loginTest[admin@your.com, admin](3)  Time elapsed: 15.625 s  <<< FAILURE!
 junit.framework.AssertionFailedError
 	at com.nopcommerce.testCases.TC_LoginDDT_002.loginTest(TC_LoginDDT_002.java:36)
 
-com.nopcommerce.testCases.TC_LoginDDT_002.loginTest[adm@yourstore.com, adm](4)  Time elapsed: 15.345 s  <<< FAILURE!
+com.nopcommerce.testCases.TC_LoginDDT_002.loginTest[adm@yourstore.com, adm](4)  Time elapsed: 15.389 s  <<< FAILURE!
 junit.framework.AssertionFailedError
 	at com.nopcommerce.testCases.TC_LoginDDT_002.loginTest(TC_LoginDDT_002.java:36)
 

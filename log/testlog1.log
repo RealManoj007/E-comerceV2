@@ -298,3 +298,26 @@
 2021-02-03 10:53:58,012 [main] INFO E-Commerce - providing customer details....
 2021-02-03 10:54:06,580 [main] INFO E-Commerce - validation started....
 2021-02-03 10:54:06,791 [main] INFO E-Commerce - test case passed....
+2021-02-03 20:55:09,275 [main] INFO E-Commerce - User provided
+2021-02-03 20:55:13,421 [main] INFO E-Commerce - Password provided
+2021-02-03 20:55:24,377 [main] INFO E-Commerce - Login in Clicked
+2021-02-03 20:55:32,019 [main] INFO E-Commerce - Login is passed
+2021-02-03 20:55:46,250 [main] INFO E-Commerce - User provided
+2021-02-03 20:55:50,553 [main] INFO E-Commerce - Password provided
+2021-02-03 20:55:57,734 [main] INFO E-Commerce - Login is clicked
+2021-02-03 20:56:05,614 [main] INFO E-Commerce - Login is passed
+2021-02-03 20:56:10,572 [main] INFO E-Commerce - User provided
+2021-02-03 20:56:14,863 [main] INFO E-Commerce - Password provided
+2021-02-03 20:56:15,851 [main] INFO E-Commerce - Login is clicked
+2021-02-03 20:56:26,204 [main] INFO E-Commerce - User provided
+2021-02-03 20:56:30,486 [main] INFO E-Commerce - Password provided
+2021-02-03 20:56:31,512 [main] INFO E-Commerce - Login is clicked
+2021-02-03 20:56:41,789 [main] INFO E-Commerce - User provided
+2021-02-03 20:56:46,091 [main] INFO E-Commerce - Password provided
+2021-02-03 20:56:46,902 [main] INFO E-Commerce - Login is clicked
+2021-02-03 20:57:02,056 [main] INFO E-Commerce - User provided
+2021-02-03 20:57:06,295 [main] INFO E-Commerce - Password provided
+2021-02-03 20:57:13,218 [main] INFO E-Commerce - Login in Clicked
+2021-02-03 20:57:13,219 [main] INFO E-Commerce - providing customer details....
+2021-02-03 20:57:22,425 [main] INFO E-Commerce - validation started....
+2021-02-03 20:57:22,671 [main] INFO E-Commerce - test case passed....
